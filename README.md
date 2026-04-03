@@ -1,5 +1,4 @@
-# guides
-Guides for Gathering 
+## Welcome to Civic Interplay
 
 Civic Interplay is being created as a collaborative space for experimentation and co-creation with agentic-AI workflows, informed by humanistic values of cultural and civic intelligence. It contains a growing collection of prompt instructions, workflow templates, and guides built through practice designed to help cultivate more humanistic-agentic relations. 
 
