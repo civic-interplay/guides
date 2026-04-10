@@ -1,14 +1,14 @@
 ## Welcome to Civic Interplay
 
-Civic Interplay is created as a collaborative space for experimentation and co-creation with co-intelligent workflows. The practice here is to examine how the infusion of humanistic values of cultural and civic intelligence can shape emerging relations between humans-in-the-loop and agentic interfaces. 
+Civic Interplay is created as a collaborative space to experiment with co-intelligent workflows. A focus here is how different kinds of intelligences can co-exist, and shape emerging relations between humans-in-the-loop and agentic interfaces. 
 
-A set of resources is being made open for others to use, test, explore and co-create with. Herein lies a growing collection of prompt instructions, workflow templates, and guides. 
+The resources here are being made open for others to use, test, explore and co-create with. Herein lies a growing collection of prompt instructions, workflow templates, and guides. 
 
 If many AI toolkits begin with the technology, this one starts with an invitation. If you are curious about how to create with AI by leading with creative and careful imagination, this space is for you. 
 
-The processes adopted here draw from interdisciplinary perspectives including historical and political geography, regenerative design, cultural policy and participatory media practices.
+Methods adopted here draw from interdisciplinary perspectives including historical and political geography, regenerative design, cultural policy, digital arts and participatory media practices.
 
-Created by Sarah Barns (Studio ESEM/RMIT) and Irina Panovich.  Fork it, adapt it, break it, rebuild it.
+Created by Sarah Barns (Studio ESEM/RMIT) and Irina Panovich.  Fork it, adapt it, break it, rebuild it. And hopefully, re-imagine it too. 
 
 ## Principles
 
